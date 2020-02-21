@@ -28,7 +28,7 @@ The heart of this improved customer experience is the IBM Supply Chain Business 
 
 The above screenshot is the **Order Summary Screen** in the Sterling Call Center Application where the Intelligent Assistant understands the customer context and pops up the relevant order related insights.  **Customer Abandonment** is the score to understand if the customer is likely to churn.  The **Projected  Life Time Value** is the projected revenue incurred by a similar customer over their lifetime. Based on these two insights, the CSR is better equipped to give relevant customer appeasements and/or upsell/cross-sell to influence the customer.
 
-One very important insight that could help the business to avoid high product Returns is the **Item Return Risk/Return Propensity Score** that identifies the probability of a specific purchased item being returned by the customer.  The **shopper affinity** is the affinity of the customer to shop again. The CSR can quickly understand the customers stickiness to a particular brand and help in upsell/cross-sell opportunities.
+One very important insight that could help the business to avoid high product returns is the **Item Return Risk/Return Propensity Score** that identifies the probability of a specific purchased item being returned by the customer.  The **shopper affinity** is the affinity of the customer to shop again. The CSR can quickly understand the customers stickiness to a particular brand and help in upsell/cross-sell opportunities.
 
 &ensp;
 
@@ -49,7 +49,7 @@ One very important insight that could help the business to avoid high product Re
 
 &ensp;
 
- **Return rate, Average Order value and Previous annual spend** are the analytical insights calculated based on the customer order history. All these insights aid in providing  relevant recommendations for the CSR to take the next best action. In the above scenario *Suggest Promo code* is appropriate as the *customer Life Time Value* is high, **Churn** is low, **Return rate** is also low and **Shopper affinity** is high. The CSR is prompted to retain the customer and influence more sales using a coupon or a promotion to the customer. 
+ **Return rate, Average Order value and Previous Annual Spend** are the analytical insights calculated based on the customer order history. All these insights aid in providing  relevant recommendations for the CSR to take the next best action. In the above scenario **Suggest Promo code** is appropriate as the *customer Life Time Value* is high, **Churn** is low, **Return rate** is also low and **Shopper affinity** is high. The CSR is prompted to retain the customer and influence more sales using a coupon or a promotion to the customer. 
 
 
 Now, Lets look at how a Call center executive can use simple natural language commands to execute customer transactions across backend systems. A **Cancel Order** transaction would involve cancelling the order from the backend Order Management, updating the ERP,  along with other multiple systems of record.  The Supply Chain business Assistant can enable seamless orchestration of these transactions using one click actions, or natural language commands, making it a breeze for CSRs.
