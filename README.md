@@ -1,7 +1,7 @@
 # Intelligent Call Center
 
 
-Deep Understanding of customers' wants and needs are key to driving supply chain efficiencies and an enhanced customer experience.  The </b>Intelligent Call Center</b> solution equips Customer Care Representatives(CSRs) with deep customer insights in a natural language-based conversation interface to solve complex customer queries.
+Deep Understanding of customers' wants and needs are key to driving supply chain efficiencies and an enhanced customer experience.  The **Intelligent Call Center** solution equips Customer Care Representatives(CSRs) with deep customer insights in a natural language-based conversation interface to solve complex customer queries.
  
 Let's review a typical day of a (CSR) where she opens up multiple tabs/applications to address a single query. She spends an enormous amount of time in a customer call thereby impacting the customer experience. This is especially detrimental during peak business hours where it is important to resolve issues quickly as CSRs are typically buried in a backlog of waiting calls. Wouldn't it impress the customer if the CSR proactively asks <i>"Are you calling about the accessories that you bought yesterday?"</i>, along with a warning that the order may be delayed.  Informing the customer and providing a discount voucher or an appeasement results in a much happier customer.
 
